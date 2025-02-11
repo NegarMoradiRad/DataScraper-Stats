@@ -14,7 +14,6 @@ This project is a Python script that processes dataset information from [Catalog
 pip install requests beautifulsoup4
 2. Run the script:
 
-python scraper.py
 3. Outputs:
 - **dataset.html** containing the processed data.
 - The extracted dataset view counts displayed in the **terminal**.
